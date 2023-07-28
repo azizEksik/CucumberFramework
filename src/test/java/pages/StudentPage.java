@@ -3,9 +3,6 @@ package pages;
 import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
-public class StudentPage {
+public class StudentPage extends Base {
 
-    public StudentPage(){
-        PageFactory.initElements(Driver.getDriver(),this);
-    }
 }
