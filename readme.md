@@ -23,22 +23,21 @@
 <br/>
 
 ***
-
 ### Isimlendirmelerde dikaat edilecekler
 
 | Element Türü           | Variable name     |
 |------------------------|-------------------|
-| Button                 | xButton      |    
-| Logo                   | logoX             |
-| icon                   | iconX             |
-| Sadece text            | labelX            |
-| Drop down              | dropDownX         |
-| Radio Button           | radioButtonX      |
-| Email box              | xBox         |
-| Tablo Sütünu           | columnX           |
-| Tablo Satiri           | rowX              |
-| Kisi Resimleri         | imageProfileX     |
-| ürün resimleri         | imageProductX     |
-| Destionation resimleri | imageDestinationX |
-| Arka Plan resimleri | imageBackgroundX |
-| Linkler                | linkX             |
+| Button                 | xButton           |    
+| Logo                   | xLogo             |
+| icon                   | xIcon             |
+| Sadece text            | xLabel            |
+| Drop down              | xDropDown         |
+| Radio Button           | xRadioButton      |
+| Email box              | xBox              |
+| Tablo Sütünu           | xColumn           |
+| Tablo Satiri           | xRow              |
+| Kisi Resimleri         | xImageProfile     |
+| ürün resimleri         | xImageProduct     |
+| Destionation resimleri | xImageDestination |
+| Arka Plan resimleri | xImageBackground  |
+| Linkler                | xLink             |
