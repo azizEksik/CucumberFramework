@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="537e2e46-42b8-4880-8aa3-b384b95d6f5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AdminPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ParentPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/StudentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/StudentPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/TeacherPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/TeacherPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
